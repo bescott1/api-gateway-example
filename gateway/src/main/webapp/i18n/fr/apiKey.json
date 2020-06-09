@@ -1,0 +1,24 @@
+{
+  "gatewayApp": {
+    "apiKey": {
+      "home": {
+        "title": "ApiKeys",
+        "createLabel": "Créer un nouveau Api Key",
+        "createOrEditLabel": "Créer ou éditer un Api Key",
+        "notFound": "Aucun Api Key trouvé"
+      },
+      "created": "Un nouveau Api Key a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Api Key avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Api Key avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Api Key {{ id }} ?"
+      },
+      "detail": {
+        "title": "Api Key"
+      },
+      "description": "Description",
+      "clientId": "Client Id",
+      "authorities": "Authorities"
+    }
+  }
+}
